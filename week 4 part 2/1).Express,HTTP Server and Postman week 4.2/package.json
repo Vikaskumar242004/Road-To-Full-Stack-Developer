@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "doctor logic",
+  "main": "doctorlogic.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vikas",
+  "license": "ISC"
+}
