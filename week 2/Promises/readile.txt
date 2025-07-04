@@ -1,0 +1,20 @@
+getdate() : number;
+gets the day of the month using universal coordinated time (UTC)
+
+getUTCdate() : number;
+gets the day of the week using local time.
+
+getdDay() : number;
+gets the day of the week using universal coordinated time (UTC)
+
+getUTCDay(): number;
+gets the hours in a date, using local time
+
+getHours() : number;
+gets the hours value in a date object using universal coordinated time (UTC)
+
+getMinutes() : number;
+gets the minutes of a date object using universal coordinated time (UTC)
+
+getUTCMinutes() : number;
+
