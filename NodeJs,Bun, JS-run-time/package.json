@@ -1,0 +1,14 @@
+{
+  "name": "vikas",
+  "version": "1.0.0",
+  "description": "this is about vikas bhai",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "vikas",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
