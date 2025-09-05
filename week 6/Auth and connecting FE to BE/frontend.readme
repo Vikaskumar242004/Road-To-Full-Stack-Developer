@@ -1,0 +1,40 @@
+Writing the frontend for it
+
+    Until now, we’ve been using POSTMAN to send out all of our requests.
+
+    Now, lets create a full stack application. Lets write the frontend that lets you
+
+          Signup
+
+          Signin
+
+          Get your information
+
+          Logout
+
+Writing the frontend
+
+       Create a public/index.html file
+
+       Create a signup section
+
+       Create a signin section
+       
+       Create a User information section
+       
+       Create a logout button
+       
+Writing the onclick handlers
+       
+       Add the axios external library
+       
+       Write the signup function
+
+       Write the signIn function
+
+       Write the logout function
+ 
+       Write the getUserInformation function
+
+
+Updating the Backend 
