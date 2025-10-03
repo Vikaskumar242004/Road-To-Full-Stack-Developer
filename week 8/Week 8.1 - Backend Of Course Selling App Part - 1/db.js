@@ -1,6 +1,6 @@
 const mongoose = require("mongoose")
 console.log("connected to database")
-mongoose.connect("mongodb+srv://100xdevs:WvaTca0509mb90YX@cluster0.ossjd.mongodb.net/vikas-app")
+mongoose.connect("")
 const Schema = mongoose.Schema;
 
 const ObjectId = mongoose.Types.ObjectId;
@@ -45,4 +45,5 @@ module.exports ={
     adminModel,
     courseModel,
     purchaseModel
+
 }
